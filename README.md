@@ -61,6 +61,5 @@ For any inquiries, please contact me at:
 
 * **Email**: samadeagle@yahoo.com
 * **Telegram**: https://t.me/SamadTnd
-* **BotTelegram**(may be down): https://t.me/Roof_real_estate_bot
 ## License
 This project is licensed under the MIT License.
